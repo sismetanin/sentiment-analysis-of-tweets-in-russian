@@ -5,6 +5,22 @@ This repository contains the source code for binary sentiment analysis of tweets
 ![MSA](static/cnn-architecture.png)
 *The CNN architecture was inspired by approaches described in [3] and [4].*
 
+Citation:
+```
+@INPROCEEDINGS{Smetanin-SA-2019,
+  author={Sergey Smetanin and Michail Komarov},
+  booktitle={2019 IEEE 21st Conference on Business Informatics (CBI)},
+  title={Sentiment Analysis of Product Reviews in Russian using Convolutional Neural Networks},
+  year={2019},
+  volume={01},
+  number={},
+  pages={482-486},
+  doi={10.1109/CBI.2019.00062},
+  ISSN={2378-1963},
+  month={July}
+}
+```
+
 ## Data
 The corpus of short texts in Russian based on Twitter messages is available at [http://study.mokoron.com/](http://study.mokoron.com/) (and also described in [1]). The files positive.csv and negative.csv contain positively labelled and negatively labelled tweets, respectively.
 
