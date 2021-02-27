@@ -25,7 +25,7 @@ Citation:
 The corpus of short texts in Russian based on Twitter messages is available at [http://study.mokoron.com/](http://study.mokoron.com/) (and also described in [1]). The files positive.csv and negative.csv contain positively labelled and negatively labelled tweets, respectively.
 
 ## Trained Models
-To download trained CNN and Word2Vec models for Russian, please follow the link [https://drive.google.com/open?id=13F4kn-DSmgDTc_6sjWubYKRCxvfoDSih](https://drive.google.com/open?id=13F4kn-DSmgDTc_6sjWubYKRCxvfoDSih).
+To download trained CNN and Word2Vec models for Russian, please follow the link [https://yadi.sk/d/Xohf3dTuVTakDA](https://yadi.sk/d/Xohf3dTuVTakDA).
 
 ## References
 1. Y. Rubtsova, "Constructing a Corpus for Sentiment Classification Training", Software & Systems, vol. 109, no. 1, pp. 72-78, 2015.
